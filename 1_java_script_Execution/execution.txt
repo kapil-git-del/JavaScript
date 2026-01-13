@@ -1,0 +1,11 @@
+
+
+Here is a execution of a Java Script Code
+    
+    1.  parse and compile
+    2. Global Execution Context is created
+    3. Execution context performs
+      3.(a) Memory Allocation Phase (in heap memory)
+      3.(b) Execution Phase
+
+    
